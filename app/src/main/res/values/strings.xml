@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FingerPainter</string>
+    <string name="color">Color</string>
+    <string name="brush">Brush</string>
+    <string name="square">Square</string>
+    <string name="round">Round</string>
+    <string name="brush_shape">Brush shape:</string>
+    <string name="brush_size">Brush size:</string>
+    <string name="size">size</string>
+    <string name="finger_painter">Finger Painter</string>
+    <string name="button">Button</string>
+</resources>
